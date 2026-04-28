@@ -1,0 +1,25 @@
+# Eval workspaces generated during skill development
+*-workspace/
+
+# Eval data
+evals/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+env/
+
+# Editor
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temp files
+*.tmp
+/tmp/
